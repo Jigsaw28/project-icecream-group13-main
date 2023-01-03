@@ -2,20 +2,20 @@
   "name": "project-icecream-group13",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://danya-yablonskiy.github.io/project-icecream-group13",
+  "homepage": "https://Jigsaw28.github.io/project-icecream-group13-main",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-icecream-group13/"
+    "build": "parcel build src/*.html --public-url /project-icecream-group13-main/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danya-yablonskiy/project-icecream-group13.git"
+    "url": "git+https://github.com/Jigsaw28/project-icecream-group13-main.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danya-yablonskiy/project-icecream-group13/issues"
+    "url": "https://github.com/Jigsaw28/project-icecream-group13-main/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
